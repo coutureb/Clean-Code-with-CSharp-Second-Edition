@@ -20,7 +20,7 @@
     "fs-extra": "^8.1.0",
     "parse5": "^5.1.1",
     "rimraf": "^2.7.1",
-    "rollup": "^1.27.5",
+    "rollup": "^4.41.0",
     "rollup-plugin-cpy": "^2.0.1",
     "rollup-plugin-multi-entry": "^2.1.0",
     "rollup-plugin-postcss": "^2.0.3",
